@@ -71,7 +71,7 @@ public class SomaNumeros {
         //instanciando
         SomaNumeros numeros = new SomaNumeros();
 
-        //adicionando numemros
+        //adicionando numeros
         numeros.adicionarNumero(33);
         numeros.adicionarNumero(34);
         numeros.adicionarNumero(27);
